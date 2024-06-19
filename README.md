@@ -1,5 +1,5 @@
 # Sample Assignment
 
-This is a sample assignment for ACT-CMS classroom management.
+This is a sample assignment for the ACT-CMS code classroom management demo.
 
-To complete this assignment, complete the notebook `intro_rdkit.ipynb`.
+See the notebook `data_fitting.ipynb` for the assignment.
